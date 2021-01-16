@@ -10,12 +10,12 @@ You can also find the Android implementation at [RxCircuitBreaker-Android](https
 
 ## State Diagram
 
-![Circuit Breaker Pattern](https://github.com/yaircarreno/RxCircuitBreaker-iOS/blob/main/Screenshot/circuit-breaker-diagram.png)
+![Circuit Breaker Pattern](https://github.com/yaircarreno/RxCircuitBreaker-iOS/blob/main/Screenshots/circuit-breaker-diagram.png)
 
 
 ## Demo
 
-![Circuit Breaker Pattern](https://github.com/yaircarreno/RxCircuitBreaker-iOS/blob/main/Screenshot/demo-circuit-breaker-ios.gif)
+![Circuit Breaker Pattern](https://github.com/yaircarreno/RxCircuitBreaker-iOS/blob/main/Screenshots/demo-circuit-breaker-ios.gif)
 
 
 ## Versions of IDEs and technologies used.
